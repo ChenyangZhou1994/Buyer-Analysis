@@ -1,0 +1,1 @@
+VisitorType,Month,ProductRelated_Duration,Administrative,Informational,Administrative_Duration,ExitRates,BounceRates,ProductRelated,PageValues,OperatingSystems,Weekend,Browser,Informational_Duration,Region,TrafficType,SpecialDay

@@ -1,4 +1,4 @@
-VisitorType,Month,ProductRelated_Duration,Administrative,Informational,Administrative_Duration,ExitRates,BounceRates,ProductRelated,PageValues,OperatingSystems,Weekend,Browser,Informational_Duration,Region,TrafficType,SpecialDay
+访客类型,月份,产品相关页面访问持续时间,信息相关页面,用户相关页面,信息相关页面访问持续时间,退出率,跳出率,产品相关页面,网页价值,操作系统,周末,浏览器,用户页面访问持续时间,区域,流量类型,节假日,是否购买
 Returning_Visitor,Nov,5526.080123,6,2,130.5,0.010699588,0.0,78,0.838988251,2,False,2,439.2,9,1,0.0
 Returning_Visitor,May,1518.097619,2,2,30.5,0.031764706000000004,0.0,15,31.75764706,2,False,2,18.0,8,2,0.0
 New_Visitor,Sep,337.8533333000001,11,0,280.3366667,0.016296296000000002,0.0,20,0.0,2,False,2,0.0,2,5,0.0
